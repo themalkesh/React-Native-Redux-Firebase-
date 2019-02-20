@@ -1,0 +1,23 @@
+export const ADD_PLACE = 'ADD_PLACE';
+export const DELETE_PLACE = 'DELETE_PLACE';
+export const SELECT_PLACE = 'SELECT_PLACE';
+export const DESELECT_PLACE = 'DESELECT_PLACE';
+
+export const AUTH_LOGIN = 'AUTH_LOGIN'; 
+export const AUTH_REGISTER = 'AUTH_REGISTER'; 
+export const AUTH_FORGOTPASSWORD = 'AUTH_FORGOTPASSWORD';
+export const AUTH_GETUSER = 'AUTH_GETUSER'; 
+export const AUTH_SIGNOUT = 'AUTH_SIGNOUT'; 
+export const AUTH_AUTOLOGIN = 'AUTH_AUTOLOGIN'; 
+export const PROFILE_LOADING = "PROFILE_LOADING";
+
+
+export const UI_START_LOADING = "UI_START_LOADING";
+export const UI_STOP_LOADING = "UI_STOP_LOADING";
+
+export const PROFILE_UPDATE = "PROFILE_UPDATE";
+
+export const ADD_PROJECT = "ADD_PROJECT";
+export const SET_PROJECTS = "SET_PROJECTS";
+export const PROJECTS_LOADING = "PROJECTS_LOADING";
+ 

@@ -74,3 +74,17 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+#ios 
+ios/
+
+#androide
+android/
+__tests__/
+.vscode
+.buckconfig
+.flowconfig
+.watchmanconfig
+functions/
+.firebaserc
+firebase.json
