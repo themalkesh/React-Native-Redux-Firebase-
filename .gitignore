@@ -84,7 +84,6 @@ __tests__/
 .vscode
 .buckconfig
 .flowconfig
-.watchmanconfig
-functions/
+.watchmanconfig 
 .firebaserc
 firebase.json
